@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! Tudo bem? Eu sou José Fernando :technologist: 👋
 
-<!--
-**JoseFernandoh/JoseFernandoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou no 7º periodo de Ciência da Computação
+- 🌱 Estou aprendendo Java | JSP | PostgreSQL
+-  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: Spring Boot e NO-SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode me encontre aqui:
+
+[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/JoseFernandoh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-778403143/)
+
+Minhas infomações referentes ao GitHub:
+
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=JoseFernandohi&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandohi&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/JoseFernandoh/github-readme-stats)
