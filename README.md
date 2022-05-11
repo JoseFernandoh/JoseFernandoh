@@ -13,6 +13,6 @@ Você pode me encontre aqui:
 
 Minhas infomações referentes ao GitHub:
 
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=JoseFernandohi&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=JoseFernandoh&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandohi&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/JoseFernandoh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoh&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/JoseFernandoh/github-readme-stats)
