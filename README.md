@@ -10,7 +10,7 @@ Você pode me encontre aqui:
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/JoseFernandoh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-778403143/)
-[![CodeWars](https://www.codewars.com/users/JoseFernandoh/badges/small)
+(https://www.codewars.com/users/JoseFernandoh/badges/small)
 
 Minhas infomações referentes ao GitHub:
 
