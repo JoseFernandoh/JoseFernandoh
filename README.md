@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
 
-- 🔭 Atualmente estou no 7º periodo de Ciência da Computação
+- 🔭 Atualmente estou no 8º periodo de Ciência da Computação
 - 🌱 Estou aprendendo Java | JSP | PostgreSQL
 -  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: Spring Boot e NO-SQL.
 
