@@ -1,10 +1,21 @@
-## Olá! Tudo bem? Eu sou José Fernando :technologist: 👋
+Olá! Eu sou José Fernando 👋
+Desenvolvedor Fullstack | Especialista em Ecossistema Java & JavaScript
 
-Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
+Sou um desenvolvedor focado na criação de sistemas de alta disponibilidade e performance. Minha expertise envolve a construção de APIs robustas com Spring Boot e interfaces dinâmicas com Next.js, sempre priorizando códigos limpos, testáveis e arquiteturas que facilitam a manutenção a longo prazo.
 
-- 🔭 Atualmente estou no 8º periodo de Ciência da Computação
-- 🌱 Estou aprendendo Java | JSP | PostgreSQL
--  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: Spring Boot e NO-SQL.
+🛠️ Expertise Técnica
+Backend: Domínio em Java (Spring Boot, Spring Security, Hibernate) e construção de APIs RESTful.
+
+Frontend: Desenvolvimento moderno com JavaScript (React.js, Next.js) e foco em UX/UI.
+
+Dados: Experiência avançada em bancos de dados relacionais (PostgreSQL, MariaDB).
+
+Infraestrutura: Administração de ambientes Linux (Debian/Ubuntu), Docker e configuração de servidores.
+
+Qualidade de Software: Aplicação prática de Arquitetura Hexagonal, Clean Code e padrões de projeto (Design Patterns).
+
+🔒 Segurança e Evolução
+Além do desenvolvimento, possuo forte interesse e estudo ativo em Segurança Ofensiva e proteção de aplicações, garantindo que o software não seja apenas funcional, mas também seguro contra vulnerabilidades modernas.
 
 Você pode me encontre aqui:
 
