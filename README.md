@@ -1,11 +1,12 @@
 # José Fernando
 
 **Desenvolvedor Full-Stack Pleno · Java / Spring Boot · React / Next.js**
+
 Teresina/PI, Brasil · trabalho remoto
 
 Desenvolvo sistemas web há mais de quatro anos, com Java e Spring Boot no back-end e React/Next.js no front-end. Criei sozinho, do zero, o sistema que substituiu uma solução legada de relatórios governamentais, defini a arquitetura em microsserviços e hoje coordeno a equipe que o evolui (2 desenvolvedores e 1 UX designer).
 
-> A maior parte do meu trabalho está em repositórios privados (órgãos públicos e clientes). Os repositórios públicos mais antigos deste perfil são projetos de estudo da época da faculdade.
+> Meu trabalho está em repositórios privados (órgãos públicos, clientes e projetos próprios).
 
 ## Alguns resultados
 
