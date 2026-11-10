@@ -1,26 +1,32 @@
-Olá! Eu sou José Fernando 👋
-Desenvolvedor Fullstack | Especialista em Ecossistema Java & JavaScript
+# José Fernando
 
-Sou um desenvolvedor focado na criação de sistemas de alta disponibilidade e performance. Minha expertise envolve a construção de APIs robustas com Spring Boot e interfaces dinâmicas com Next.js, sempre priorizando códigos limpos, testáveis e arquiteturas que facilitam a manutenção a longo prazo.
+**Desenvolvedor Full-Stack Pleno · Java / Spring Boot · React / Next.js**
+Teresina/PI, Brasil · trabalho remoto
 
-🛠️ Expertise Técnica
-Backend: Domínio em Java (Spring Boot, Spring Security, Hibernate) e construção de APIs RESTful.
+Desenvolvo sistemas web há mais de quatro anos, com Java e Spring Boot no back-end e React/Next.js no front-end. Criei sozinho, do zero, o sistema que substituiu uma solução legada de relatórios governamentais, defini a arquitetura em microsserviços e hoje coordeno a equipe que o evolui (2 desenvolvedores e 1 UX designer).
 
-Frontend: Desenvolvimento moderno com JavaScript (React.js, Next.js) e foco em UX/UI.
+> A maior parte do meu trabalho está em repositórios privados (órgãos públicos e clientes). Os repositórios públicos mais antigos deste perfil são projetos de estudo da época da faculdade.
 
-Dados: Experiência avançada em bancos de dados relacionais (PostgreSQL, MariaDB).
+## Alguns resultados
 
-Infraestrutura: Administração de ambientes Linux (Debian/Ubuntu), Docker e configuração de servidores.
+- **Performance:** relatórios que levavam de 5 a 15 s passaram a sair em até 2 s; telas com mais de 250 mil registros ficaram 60% mais rápidas (EXPLAIN ANALYZE, índices, correção de N+1, projeções, paginação e cache).
+- **Entrega contínua:** pipeline GitLab CI/CD com build, testes, imagem Docker no Amazon ECR e deploy no Kubernetes (Amazon EKS) via Helm, no lugar do deploy manual.
+- **Custo de infraestrutura:** ambientes de teste reduzidos de dois servidores para um com Coolify, ativos só sob demanda.
+- **Qualidade e segurança:** auditoria de um sistema de vários módulos com agentes de IA, com mais de 30 problemas corrigidos só no primeiro módulo.
 
-Qualidade de Software: Aplicação prática de Arquitetura Hexagonal, Clean Code e padrões de projeto (Design Patterns).
+## Stack
 
-🔒 Segurança e Evolução
-Além do desenvolvimento, possuo forte interesse e estudo ativo em Segurança Ofensiva e proteção de aplicações, garantindo que o software não seja apenas funcional, mas também seguro contra vulnerabilidades modernas.
+| Área | Tecnologias |
+|------|-------------|
+| Back-end | Java 17 e 21, Spring Boot 3, Spring Security, Spring Data JPA, Hibernate, gRPC, Python |
+| Microsserviços | RabbitMQ, Amazon SQS, JWT assinado e criptografado, OAuth2 |
+| Front-end | React, Next.js, TypeScript, Tailwind CSS |
+| Dados | PostgreSQL, MySQL, MariaDB |
+| Testes | JUnit 5, Mockito, Testcontainers, Playwright |
+| DevOps e nuvem | Docker, Kubernetes (EKS), Helm, GitLab CI/CD, Coolify, AWS, Oracle Cloud |
+| IA | Gemini, OCR, chatbots, desenvolvimento com múltiplos agentes (Claude Code, Maestri) |
 
-Você pode me encontre aqui:
+## Contato
 
-[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/JoseFernandoh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-778403143/)
-[![Codewars](https://www.codewars.com/users/JoseFernandoh/badges/small)](https://www.codewars.com/users/JoseFernandoh)
-
-
+- LinkedIn: [linkedin.com/in/jose-fernando-778403143](https://www.linkedin.com/in/jose-fernando-778403143)
+- E-mail: josecernandl1565@gmail.com
